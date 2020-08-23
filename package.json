@@ -1,0 +1,19 @@
+{
+  "name": "frailty-sensors",
+  "version": "1.0.0",
+  "description": "sensor based frailty toolkit",
+  "main": "test_iot_cloud.js",
+  "scripts": {
+    "test": "node test_iot_cloud.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swimmingmachine/frailty-sensors.git"
+  },
+  "author": "Chao Bian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swimmingmachine/frailty-sensors/issues"
+  },
+  "homepage": "https://github.com/swimmingmachine/frailty-sensors#readme"
+}
