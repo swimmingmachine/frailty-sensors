@@ -12,6 +12,9 @@
   },
   "author": "Chao Bian",
   "license": "ISC",
+  "dependencies": {
+    "ibmiotf": "^0.2.41"
+  },
   "bugs": {
     "url": "https://github.com/swimmingmachine/frailty-sensors/issues"
   },
